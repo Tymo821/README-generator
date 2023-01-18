@@ -1,0 +1,19 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Project that builds readme files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tymo821/README-generator.git"
+  },
+  "author": "Tyler Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tymo821/README-generator/issues"
+  },
+  "homepage": "https://github.com/Tymo821/README-generator#readme"
+}
