@@ -1,3 +1,4 @@
+
 # README-generator
 
 ## Description
@@ -15,7 +16,7 @@ This project was inspired by the need to consistently create a quality README fi
 
 ## Installation
 
-To install this project, simply clone the projects repository and run a node index.js.
+To install this project simply clone the repository.
 
 ## Usage
 
@@ -42,3 +43,5 @@ For questions or futher information, please contact me:
 - Email address: Tymo821@aol.com
 
 ## Video
+
+https://drive.google.com/file/d/1Qz13fYqw2vcEhTG0BRl-xurKSqQQh5ty/view
